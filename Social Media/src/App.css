@@ -1,0 +1,20 @@
+.main {
+  display: flex;
+}
+.section {
+  width: 100%;
+}
+
+.sidebar {
+  background-color: #212529;
+}
+
+.hashtags {
+  margin: 5px;
+  padding: 5px 10px !important;
+}
+
+form {
+  width: 60%;
+  margin: 20px 0px 20px 40px;
+}
